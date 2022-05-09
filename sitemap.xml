@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://brothersnpaint.com/index</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/store</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/reviews</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/gallery-All</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/gallery-Exterior-Painting</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/gallery-Interior-Painting</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Interior-Painting-</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Exterior-Painting</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Demolition</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Drywall-Repair</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Deck-Staining</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Power-Washing</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://brothersnpaint.com/service-Wallpaper-Removal</loc>
+        <lastmod>2022-05-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
